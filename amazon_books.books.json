@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "665ce423ba6600eb8386b6c3"
+  },
+  "title": "Anatómia lží",
+  "author_id": "ObjectID('665cd3d7ba6600eb8386b6b1')",
+  "year_published": 2023,
+  "publisher": "Vydavateľstvo Motýľ",
+  "isbn": "978-80-816-4348-4",
+  "page_numbers": 304,
+  "format": [
+    {
+      "published_format": "pevná väzba"
+    }
+  ],
+  "edition": "",
+  "language": [
+    {
+      "lang_name": "Slovenčina"
+    }
+  ],
+  "description": "Novomanželia Tricia a Ethan hľadajú svoj vysnívaný domov. Navštívia odľahlé sídlo, ktoré kedysi patrilo doktorke Adrienne Haleovej, uznávanej psychiatričke, ktorá pred tromi rokmi bez stopy zmizla",
+  "genre": [
+    {
+      "genre_name": "triler",
+      "description": ""
+    },
+    {
+      "genre_name": "detektív",
+      "description": ""
+    }
+  ],
+  "awards": [
+    {
+      "award_name": "",
+      "established_year": null,
+      "organization": "",
+      "award_date": ""
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ce423ba6600eb8386b6c4"
+  },
+  "title": "Nezlomné",
+  "author_id": "ObjectID('665cd3d7ba6600eb8386b6b2')",
+  "year_published": 2024,
+  "publisher": "Ikar",
+  "isbn": "978-80-551-9209-3",
+  "page_numbers": 376,
+  "format": [
+    {
+      "published_format": "tvrdá väzba"
+    }
+  ],
+  "edition": "",
+  "language": [
+    {
+      "lang_name": "Slovenčina"
+    }
+  ],
+  "description": "Strhujúci príbeh o sile a odvahe troch žien",
+  "genre": [
+    {
+      "genre_name": "román",
+      "description": ""
+    }
+  ],
+  "awards": [
+    {
+      "award_name": "",
+      "established_year": null,
+      "organization": "",
+      "award_date": ""
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665ce423ba6600eb8386b6c5"
+  },
+  "title": "The Adventures of Tom Sawyer",
+  "author_id": "ObjectID('665cd3d7ba6600eb8386b6b3')",
+  "year_published": 2016,
+  "publisher": "Vintage Publishing",
+  "isbn": "978-17-8487-158-1",
+  "page_numbers": 240,
+  "format": [
+    {
+      "published_format": "brožovaná väzba"
+    },
+    {
+      "published_format": "mäkká väzba"
+    }
+  ],
+  "edition": "",
+  "language": [
+    {
+      "lang_name": "Anglický"
+    }
+  ],
+  "description": "The Adventures of Tom Sawyer",
+  "genre": [
+    {
+      "genre_name": "novel",
+      "description": ""
+    }
+  ],
+  "awards": [
+    {
+      "award_name": "",
+      "established_year": null,
+      "organization": "",
+      "award_date": ""
+    }
+  ]
+}]

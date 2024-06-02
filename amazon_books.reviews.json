@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "665ce7daba6600eb8386b6c9"
+  },
+  "book_id": "ObjectID('665ce423ba6600eb8386b6c3')",
+  "user": {
+    "first_name": "Isabelocka",
+    "last_name": "Ahoj",
+    "birth_date": "1997-11-24",
+    "gender": "female",
+    "email": "isa.ciao@gmail.com",
+    "country": {
+      "country_name": "Slovensko",
+      "region": {
+        "region_name": "Nitra",
+        "postcode": ""
+      }
+    }
+  },
+  "user_rating": 5,
+  "review_text": "Kniha bola jedna z najlepšich aku som za dlhu dobu čitala bola som v napeti celu dobu a koniec daval uplny zmysel ale nikdy by som ho neuhadla knihu určite doporučujem prečitať ak milujete detektivky alebo true crime",
+  "review_date": "2024-01-14"
+},
+{
+  "_id": {
+    "$oid": "665ce7daba6600eb8386b6ca"
+  },
+  "book_id": "ObjectID('665ce423ba6600eb8386b6c3')",
+  "user": {
+    "first_name": "Beáta",
+    "last_name": "Kaššovicová",
+    "birth_date": "1985-02-06",
+    "gender": "female",
+    "email": "kassovicova@gmail.com",
+    "country": {
+      "country_name": "Slovensko",
+      "region": {
+        "region_name": "Poprad",
+        "postcode": "05801"
+      }
+    }
+  },
+  "user_rating": 4,
+  "review_text": "Freida, autorka vynikajúcej Pomocníčky, prišla s ďalším psychotrilerom, pri ktorom sa zastavíte a budete premýšľať. Dlho a veľa až pochopíte, ako to tá Freida lišiacky napísala.",
+  "review_date": "2023-12-05"
+},
+{
+  "_id": {
+    "$oid": "665ce7daba6600eb8386b6cb"
+  },
+  "book_id": "ObjectID('665ce423ba6600eb8386b6c4')",
+  "user": {
+    "first_name": "Katarina",
+    "last_name": "Bielová",
+    "birth_date": "1992-03-28",
+    "gender": "",
+    "email": "kbielova@gmail.com",
+    "country": {
+      "country_name": "Austria",
+      "region": {
+        "region_name": "Wienna",
+        "postcode": ""
+      }
+    }
+  },
+  "user_rating": 5,
+  "review_text": "Vynikajúca! Veľmi ma oslovil už opis knihy a obálka to doťukla. Od prvej strany výborná, neviem ju odložiť.",
+  "review_date": "2024-04-21"
+}]

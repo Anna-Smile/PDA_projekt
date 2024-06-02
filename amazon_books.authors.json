@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "665cd3d7ba6600eb8386b6b1"
+  },
+  "first_name": "Freida",
+  "last_name": "McFadden",
+  "pen_name": "Freida McFadden",
+  "nationality": "American"
+},
+{
+  "_id": {
+    "$oid": "665cd3d7ba6600eb8386b6b2"
+  },
+  "first_name": "Emilia",
+  "last_name": "Hart",
+  "pen_name": "Emilia Hart",
+  "nationality": "Australian"
+},
+{
+  "_id": {
+    "$oid": "665cd3d7ba6600eb8386b6b3"
+  },
+  "first_name": "Samuel Langhorne",
+  "last_name": "Clemens",
+  "pen_name": "Mark Twain",
+  "nationality": "American"
+}]
